@@ -30,3 +30,19 @@ Final year MCA student at Tezpur University
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&ensp;
 </p>
 <br />
+
+## GitHub Stats
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=goswamiAnushka&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
+
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=goswamiAnushka&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&card_width=420px"></a>
+
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=goswamiAnushka&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
+</p>
+
+## 📈 Profile Statistics
+
+<a href="https://github.com/alokshandilya"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=goswamiAnushaka&color=red&style=for-the-badge"></a>
+<br />
+
