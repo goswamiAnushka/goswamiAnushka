@@ -1,4 +1,4 @@
-## I am a Python, Web Developer and Data Analyst
+## I am a Full Stack Web Developer and a Python Enthusiast
 
 Final year MCA student at Tezpur University
 
