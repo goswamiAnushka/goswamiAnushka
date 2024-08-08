@@ -1,35 +1,32 @@
-# 👩‍💻 Anushka Goswami - Full Stack Developer & Python Enthusiast
+# 👩‍💻 Anushka Goswami
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Siliguri,%20India-%234caf50?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-Tezpur%20University-%23ff7043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Contact-anushka.goswami2520%40gmail.com-%23f06292?style=flat-square" />
-</p>
+**Full Stack Developer | Python Enthusiast | Final Year MCA Student at Tezpur University**
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Z_Gmnv-cof0UP9xRGwq9u1Omb31sLG_5/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-%23007acc?style=flat-square&logo=google-drive" alt="Resume Link">
-  </a>
-  <a href="https://github.com/goswamiAnushka">
-    <img src="https://img.shields.io/badge/GitHub-Profile-%23f4511e?style=flat-square&logo=github" alt="GitHub Profile">
-  </a>
-</p>
+- 🌍 **Location**: Siliguri, West Bengal, India
+- ✉️ **Email**: [anushka.goswami2520@gmail.com](mailto:anushka.goswami2520@gmail.com)
+- 🧠 **Learning**: React, Node.js, Next.js
+- 🤝 **Open to Collaboration**: Open Source Projects
+- 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1Z_Gmnv-cof0UP9xRGwq9u1Omb31sLG_5/view?usp=sharing)
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%23ffe066.svg?style=for-the-badge&logo=python&logoColor=blue" width="100" alt="Python" /></a>&ensp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-%2343a047.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" width="100" alt="C++" /></a>&ensp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-%23d32f2f.svg?style=for-the-badge&logo=html5&logoColor=white" width="100" alt="HTML5" /></a>&ensp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-%230064b1.svg?style=for-the-badge&logo=css3&logoColor=white" width="100" alt="CSS3" /></a>&ensp;
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-%23ffeb3b.svg?style=for-the-badge&logo=javascript&logoColor=black" width="100" alt="JavaScript" /></a>&ensp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-%234caf50.svg?style=for-the-badge&logo=react&logoColor=61dafb" width="100" alt="React" /></a>&ensp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-%23007acc.svg?style=for-the-badge&logo=node.js&logoColor=white" width="100" alt="Node.js" /></a>&ensp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%23f4511e.svg?style=for-the-badge&logo=mongodb&logoColor=green" width="100" alt="MongoDB" /></a>&ensp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-%234caf50.svg?style=for-the-badge&logo=mysql&logoColor=white" width="100" alt="MySQL" /></a>&ensp;
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-%23d32f2f.svg?style=for-the-badge&logo=redux&logoColor=white" width="100" alt="Redux" /></a>&ensp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-%23ff7043.svg?style=for-the-badge&logo=postman&logoColor=white" width="100" alt="Postman" /></a>&ensp;
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&ensp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&ensp;
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&ensp;
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&ensp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&ensp;
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&ensp;
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&ensp;
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&ensp;
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&ensp;
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&ensp;
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
