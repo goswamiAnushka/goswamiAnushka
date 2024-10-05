@@ -35,10 +35,6 @@ I have experience with various web development and programming tools:
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=goswamiAnushka&theme=radical&hide_border=true&area=true&custom_title=Anushka's%20Contribution%20Graph" alt="Anushka's GitHub Contribution Graph" /></a>
 </p>
 
-- **GitHub Stats**: Check out my contributions, commits, and project development through my [GitHub Stats](https://github.com/goswamiAnushka).
-- **Streaks**: Keep track of my coding journey through daily streaks.
-- **Activity Graph**: An overview of my activity and key contributions to repositories, projects, and open-source collaborations.
-
 ---
 
 ## 🌱 **What I'm Currently Working On**
