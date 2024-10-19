@@ -7,7 +7,7 @@
 - 🌐 **Portfolio**: [anushkagoswamiportfolio.netlify.app](https://anushkagoswamiportfolio.netlify.app/)  
 - 🧠 **Currently Learning**: Machine Learning Algorithms, Web Application Integration, Next.js  
 - 🤝 **Open to Collaboration**: Open Source Projects, Web Development, Machine Learning  
-- 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1Z_Gmnv-cof0UP9xRGwq9u1Omb31sLG_5/view?usp=sharing)
+- 📄 **Resume**: [Download Here](https://docs.google.com/document/d/1ML1h7lQbDqjap2mYArFZnR1FLlnIyyI2XGYM0TTaMxc/edit?usp=sharing)
 
 ---
 
